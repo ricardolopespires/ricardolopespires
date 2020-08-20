@@ -1,15 +1,18 @@
 
 
-<img align="right" src="https://github.com/ricardolopespires/ricardolopespires/blob/master/banner-github.png" width="250"/>
 
 
 <br/>
 
 ### Hey! Welcome to my profile! Will we always learn?? 👋
-<img align="left" alt="" src="https://img.shields.io/github/repo-size/ricardolopespires/Data-Mining-on-Social-Media-Marketing" />
-<img align="left"  alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ricardolopespires/Data-Mining-on-Social-Media-Marketing" />
-<img align="left"  alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/Data-Mining-on-Social-Media-Marketing" />
-<img align="left"  alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/ricardolopespires/Data-Mining-on-Social-Media-Marketing" />
+<p aling = 'center'>
+ <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ricardolopespires/ricardolopespires" />
+  
+  <img alt="" src="https://img.shields.io/github/repo-size/ricardolopespires/ricardolopespires" />
+  <img alt="GitHub Issues" src="https://img.shields.io/github/issues/ricardolopespires/ricardolopespires" />
+  <img alt="GitHub Closed Issues" src="https://img.shields.io/github/issues-closed/ricardolopespires/ricardolopespires" />
+  <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/ricardolopespires/ricardolopespires" />
+ </p>
 
 
 - 💻 Python, Django, Data Science, Natural Language, Marketing
