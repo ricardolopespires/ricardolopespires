@@ -20,7 +20,7 @@
 - 💻 Python, Django, Data Science, Machine Learning, Marketing
 - ✨ Learning is continuous and there will always be a next level
 <br/>
-Passionate about the best technologies for web development Data Science, Machine Learning, AI and etc .....!
+Passionate about the best technologies for web development Data Science, Machine Learninge e AI.....!
 
 Motivated by education and changing people's lives through programming.
 
