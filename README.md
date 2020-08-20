@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://github.com/ricardolopespires/ricardolopespires/blob/master/banner-github.png" width="250"/>
+<img align="right" src="https://github.com/ricardolopespires/ricardolopespires/blob/master/banner-int-1.png" width="250"/>
 
 
 <br/>
