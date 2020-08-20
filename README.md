@@ -6,15 +6,15 @@
 <br/>
 
 ### Hey! Welcome to my profile! Will we always learn?? 👋
-
-- 💻 Python, Django, Data Science, Natural Language, Marketing
-- ✨ Learning is continuous and there will always be a next level
 <img align="left" alt="" src="https://img.shields.io/github/repo-size/ricardolopespires/Data-Mining-on-Social-Media-Marketing" />
 <img align="left"  alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ricardolopespires/Data-Mining-on-Social-Media-Marketing" />
 <img align="left"  alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/Data-Mining-on-Social-Media-Marketing" />
 <img align="left"  alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/ricardolopespires/Data-Mining-on-Social-Media-Marketing" />
+<img  align="rigth" alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ricardolopespires/Data-Mining-on-Social-Media-Marketing" />
 
-<img  align="left" alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ricardolopespires/Data-Mining-on-Social-Media-Marketing" />
+- 💻 Python, Django, Data Science, Natural Language, Marketing
+- ✨ Learning is continuous and there will always be a next level
+
 
 
 Passionate about the best technologies for web development Data Science, Machine Learning, AI and etc .....!
