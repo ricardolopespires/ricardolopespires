@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github.com/ricardolopespires/ricardolopespires/blob/master/banner-github.png" width="350"/>
