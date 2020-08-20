@@ -13,7 +13,7 @@
 <img align="left"  alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ricardolopespires/Data-Mining-on-Social-Media-Marketing" />
 <img align="left"  alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/Data-Mining-on-Social-Media-Marketing" />
 <img align="left"  alt="GitHub Pull Requests" src="https://img.shields.io/github/issues-pr/ricardolopespires/Data-Mining-on-Social-Media-Marketing" />
-<img  align="left" alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ricardolopespires/Data-Mining-on-Social-Media-Marketing" />
+<img  align="rigth" alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/ricardolopespires/Data-Mining-on-Social-Media-Marketing" />
 
 
 Passionate about the best technologies for web development Data Science, Machine Learning, AI and etc .....!
