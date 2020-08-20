@@ -1,6 +1,6 @@
 
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
 
+<img align="right" src="https://github.com/ricardolopespires/ricardolopespires/blob/master/banner-github.png" width="350"/>
 
 
 <br/>
@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="right" src="https://github.com/ricardolopespires/ricardolopespires/blob/master/banner-github.png" width="350"/>
