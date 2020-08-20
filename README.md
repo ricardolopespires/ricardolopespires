@@ -4,8 +4,7 @@
 
 <br/>
 
-### Hey! Welcome to my profile! Will we always learn?? 👋
-  <img aling ='right' alt="PyPI - Python Version" src="https://github.com/ricardolopespires/ricardolopespires/blob/master/banner-github.png" width =250>
+### Hey! Welcome to my profile! Will we always learn?? 👋 
 <p aling = 'left'>
   <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django">
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ricardolopespires/ricardolopespires" />  
@@ -14,7 +13,7 @@
   <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/ricardolopespires" />
   <img alt="PyPI - Django Version" src="https://img.shields.io/pypi/djversions/djangorestframework">
 </p>
-
+ <img aling ='right' alt="PyPI - Python Version" src="https://github.com/ricardolopespires/ricardolopespires/blob/master/banner-github.png" width =250>
 <br/>
 - 💻 Python, Django, Data Science, Natural Language, Marketing
 - ✨ Learning is continuous and there will always be a next level
