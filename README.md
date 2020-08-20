@@ -12,12 +12,12 @@
   <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/ricardolopespires/ricardolopespires" />
   <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/ricardolopespires" />
   <img alt="PyPI - Django Version" src="https://img.shields.io/pypi/djversions/djangorestframework">
-      <img  src="https://github.com/ricardolopespires/ricardolopespires/blob/master/banner-github.png"/>
+  
   
                  
 </p>
-<p aling = 'rigth'>
-     <img  src="https://github.com/ricardolopespires/ricardolopespires/blob/master/banner-github.png"/>
+<p aling = 'right'>
+     <img aling = 'right' width= 250 src="https://github.com/ricardolopespires/ricardolopespires/blob/master/banner-github.png"/>
 </p>
 <br/>
 - 💻 Python, Django, Data Science, Natural Language, Marketing
