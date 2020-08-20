@@ -5,7 +5,7 @@
 <br/>
 
 ### Hey! Welcome to my profile! Will we always learn?? 👋
-<img aling= right alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django">
+  <img aling ='right' alt="PyPI - Python Version" src="https://github.com/ricardolopespires/ricardolopespires/blob/master/banner-github.png" width =250>
 <p aling = 'left'>
   <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django">
   <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ricardolopespires/ricardolopespires" />  
