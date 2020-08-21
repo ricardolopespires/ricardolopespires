@@ -6,8 +6,7 @@
 
 ### Hey! Welcome to my profile! Will we always learn?? 👋 
 <p align = 'left'>
-  <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django">
-  <img alt="GitHub Language Count" src="https://img.shields.io/github/languages/count/ricardolopespires/ricardolopespires" />  
+  <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django">  
   <img alt="" src="https://img.shields.io/github/repo-size/ricardolopespires/ricardolopespires" />    
   <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/ricardolopespires/ricardolopespires" />
   <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/ricardolopespires" />
