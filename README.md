@@ -23,7 +23,7 @@ Sou um desenvolvedor e instrutor de Python
 - 🌱 Atualmente estou aprendendo Data Sciense e IA Marketing Digital🤣
 - 👯 Estou procurando colaborar com outros criadores de conteúdo
 - 🥅 Objetivos 2024: contribuir mais para projetos de código aberto e configurar minha empresa
-- ⚡ Curiosidade: adoro desenhar e ensinar as pessoas
+- ⚡ Curiosidade: gosto muito de estar sempre buscando aprender e ensinar as pessoas
 - 💻 Python, Django, Data Science, Machine Learning, Marketing
 - ✨ Learning is continuous and there will always be a next level
 <br/>
