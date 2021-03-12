@@ -47,13 +47,13 @@ Sou um desenvolvedor e instrutor de Python
 </p>
 <br>
 <br>
-
+<p>
 Apaixonado pelas melhores tecnologias para desenvolvimento web Data Science, Machine Learninge e AI .....!
 
 Motivado pela educação e mudando a vida das pessoas por meio de programação.
 
 "Nada mais comum do que o fracasso de um gênio talentoso é um gênio não reconhecido. Gênios não reconhecidos são praticamente um clichê. A educação pode ir além do seu pensamento, porque" Persistência e determinação "juntas são poderosas."
-
+</p>
 <!--
 **ricardolopespires/ricardolopespires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
