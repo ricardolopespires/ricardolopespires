@@ -5,8 +5,7 @@
 <br/>
 
 ### Ei! Bem-vindo ao meu perfil! Estamos sempre aprendendo ???? 👋
-<p align = 'left'>
-  <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/Django">  
+<p align = 'left'> 
   <img alt="" src="https://img.shields.io/github/repo-size/ricardolopespires/ricardolopespires" />    
   <img alt="GitHub Closed Pull Requests" src="https://img.shields.io/github/issues-pr-closed/ricardolopespires/ricardolopespires" />
   <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/ricardolopespires/ricardolopespires" />
